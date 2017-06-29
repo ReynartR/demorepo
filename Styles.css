@@ -1,8 +1,21 @@
-﻿#colors {
+﻿p {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+} 
+.intro {
     color:yellow; 
     background-color:rebeccapurple;
 }
-#para{
-    color:yellow; 
-    background-color:purple;
+#para {
+    color: yellow;
+    background-color: purple;
+}
+#heading{
+    background-color: gold;
+    color: maroon;
+}
+#filler{
+    background-color: slategrey
 }
